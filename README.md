@@ -153,16 +153,14 @@ Memory[0x12] = 12
 ```
 📦 MIPS-Based-Digital-Logic-and-Processor-Simulator
 │
-├── Project Proposal.pdf
-├── Project Report.pdf
 ├── MIPS_Processor_Simulator.asm
 ├── README.md
 │
 └── screenshots
-    ├── phase1-output.png
-    ├── phase2-output.png
-    ├── phase3-output.png
-    └── phase4-output.png
+    ├── phase1.png
+    ├── phase2.png
+    ├── phase3.png
+    └── phase4.png
 ```
 
 ---
@@ -232,18 +230,10 @@ The simulator will automatically execute all four phases.
 
 Below are screenshots showing the execution of the simulator.
 
-## Complete Output
-
-<p align="center">
-  <img src="screenshots/output.png" alt="Complete Program Output" width="900">
-</p>
-
----
-
 ## Phase 1 – Logic Gate Verification
 
 <p align="center">
-  <img src="screenshots/phase1-output.png" alt="Phase 1 Output" width="900">
+  <img src="screenshots/phase1.png" alt="Phase 1 Output" width="900">
 </p>
 
 ---
@@ -251,7 +241,7 @@ Below are screenshots showing the execution of the simulator.
 ## Phase 2 – Adder Verification
 
 <p align="center">
-  <img src="screenshots/phase2-output.png" alt="Phase 2 Output" width="900">
+  <img src="screenshots/phase2.png" alt="Phase 2 Output" width="900">
 </p>
 
 ---
@@ -259,7 +249,7 @@ Below are screenshots showing the execution of the simulator.
 ## Phase 3 – 8-bit ALU Testing
 
 <p align="center">
-  <img src="screenshots/phase3-output.png" alt="Phase 3 Output" width="900">
+  <img src="screenshots/phase3.png" alt="Phase 3 Output" width="900">
 </p>
 
 ---
@@ -267,7 +257,7 @@ Below are screenshots showing the execution of the simulator.
 ## Phase 4 – Mini CPU Execution
 
 <p align="center">
-  <img src="screenshots/phase4-output.png" alt="Phase 4 Output" width="900">
+  <img src="screenshots/phase4.png" alt="Phase 4 Output" width="900">
 </p>
 
 ---
